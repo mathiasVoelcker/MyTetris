@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{3836990A-9B89-D01D-7E11-8CF53EEAEA8B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Extensions/BlockExtension.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GridController.cs" Line="28" Column="72" />
+      <File FileName="Assets/Scripts/ScoreController.cs" />
+      <File FileName="Assets/Scripts/Extensions/BlockExtension.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Domain/EquationDomain.cs" />
+      <File FileName="Assets/Scripts/Entities/Spawner.cs" Line="112" Column="1" />
+      <File FileName="Assets/Scripts/Entities/Piece.cs" />
+      <File FileName="Assets/Scripts/Entities/Block.cs" />
+      <File FileName="Assets/Scripts/Domain/ScoreDomain.cs" />
+      <File FileName="Assets/Scripts/LevelController.cs" />
+      <File FileName="Assets/Scripts/Extensions/StringExtension.cs" />
+      <File FileName="Assets/Scripts/GameController.cs" />
+      <File FileName="Assets/Scripts/Domain/GridDomain.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MathTetris" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Domain" expanded="True" />
+                <Node name="Entities" expanded="True" />
+                <Node name="Extensions" expanded="True">
+                  <Node name="BlockExtension.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cb771ad8-b99f-4262-b2f2-8c1d712e0f36" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mathiasvoelcker/Desktop/Developer/Unity/MathTetris/Assets/Scripts/Domain/ScoreDomain.cs" relfile="Assets/Scripts/Domain/ScoreDomain.cs" line="10" column="1" />
+      <Breakpoint file="/Users/mathiasvoelcker/Desktop/Developer/Unity/MathTetris/Assets/Scripts/ScoreController.cs" relfile="Assets/Scripts/ScoreController.cs" line="13" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
